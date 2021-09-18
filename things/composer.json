@@ -1,0 +1,18 @@
+{
+    "name": "spicycomnbo/xmc-site",
+    "description": "a fucking poorly written site for the classicube server xmc and i fucking HATE this",
+    "type": "projec",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Spicycomnbo\\XmcSite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SpicyCombo",
+            "email": "63688135+SpicyCombo@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
