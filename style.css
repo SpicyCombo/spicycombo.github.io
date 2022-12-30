@@ -14,20 +14,20 @@ html, body {
     font-size: 16px;
 }
 
-.btn:hover {
-    color: white;
-}
+    .btn:hover {
+        color: white;
+    }
 
 .li-a:hover {
     color: yellow;
 }
 
 a {
-    color: green;
+    color: lime;
 }
 
     a:hover {
-        color: darkgreen;
+        color: limegreen;
     }
 
 .main {
@@ -40,10 +40,10 @@ a {
     background-color: green;
 }
 
-.active:hover {
-    background-color: darkgreen;
-    color: black
-}
+    .active:hover {
+        background-color: darkgreen;
+        color: black
+    }
 
 .content {
     width: 75%;
@@ -62,9 +62,9 @@ br {
     color: darkred;
 }
 
-.close:hover {
-    color: #320000;
-}
+    .close:hover {
+        color: #320000;
+    }
 
 /* Google Fonts for Fugaz One font is below. */
 
@@ -79,5 +79,13 @@ br {
 }
 
 p {
-    color: #ffffff;
+    color: wheat;
+}
+
+b {
+    color: white;
+}
+
+li {
+    color: white;
 }
