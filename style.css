@@ -2,6 +2,10 @@ html, body {
     background-color: #292B2F;
 }
 
+p {
+    color: white;
+}
+
 .btn {
     background-color: slategray; /* Green */
     border: none;
