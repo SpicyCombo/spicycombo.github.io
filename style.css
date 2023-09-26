@@ -54,6 +54,16 @@ a {
     font-size: 20px;
 }
 
+.content2 {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1%;
+    font-family: Markazi Text;
+    font-size: 20px;
+    background-color: aquamarine;
+}
+
 br {
     color: slategray;
 }
