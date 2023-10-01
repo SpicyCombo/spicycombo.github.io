@@ -98,3 +98,25 @@ b {
 li {
     color: white;
 }
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+.navbar-item {
+    float: left;
+}
+  
+.navbar-item a {
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+}
+
+svg {
+    width: auto;
+    height: auto;
+}
